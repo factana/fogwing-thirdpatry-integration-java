@@ -4,12 +4,12 @@ This repository contains a Java program, that allows you to retrieve weather dat
 
 >**Note:** This program is specific to send OpenWeatherMap (OWM) to Fogwing. It may require additional modifications and configurations to work properly with your specific use case.
 
+### Pre-requisites:
+- [Eclipse IDE](https://www.eclipse.org/downloads)
+
 ## **OpenWeatherMap to Fogwing Client Program**
 
 To run the `OWMToFogwingClient` program in Eclipse IDE, follow the step-by-step instructions below:
-
-### Pre-requisites:
-- [Eclipse IDE](https://www.eclipse.org/downloads)
 
 ### **Step 1: Clone the Repository**
 - Clone the [fogwing-thirdpatry-integration-java](https://github.com/factana/fogwing-thirdpatry-integration-java) repository containing the program code to your local machine.
